@@ -1,0 +1,44 @@
+0 verbose cli [
+0 verbose cli   '/usr/local/bin/node',
+0 verbose cli   '/usr/local/bin/npm',
+0 verbose cli   'view',
+0 verbose cli   '--json',
+0 verbose cli   'bootstrap',
+0 verbose cli   'description',
+0 verbose cli   'dist-tags.latest',
+0 verbose cli   'homepage',
+0 verbose cli   'version'
+0 verbose cli ]
+1 info using npm@8.5.5
+2 info using node@v16.15.0
+3 timing npm:load:whichnode Completed in 0ms
+4 timing config:load:defaults Completed in 1ms
+5 timing config:load:file:/usr/local/lib/node_modules/npm/npmrc Completed in 1ms
+6 timing config:load:builtin Completed in 1ms
+7 timing config:load:cli Completed in 1ms
+8 timing config:load:env Completed in 0ms
+9 timing config:load:file:/Users/admin/Desktop/Обучение/React/my-app/.npmrc Completed in 0ms
+10 timing config:load:project Completed in 2ms
+11 timing config:load:file:/Users/admin/.npmrc Completed in 0ms
+12 timing config:load:user Completed in 0ms
+13 timing config:load:file:/usr/local/etc/npmrc Completed in 0ms
+14 timing config:load:global Completed in 0ms
+15 timing config:load:validate Completed in 0ms
+16 timing config:load:credentials Completed in 1ms
+17 timing config:load:setEnvs Completed in 0ms
+18 timing config:load Completed in 6ms
+19 timing npm:load:configload Completed in 6ms
+20 timing npm:load:setTitle Completed in 8ms
+21 timing config:load:flatten Completed in 1ms
+22 timing npm:load:display Completed in 1ms
+23 verbose logfile /Users/admin/.npm/_logs/2022-06-07T16_47_18_799Z-debug-0.log
+24 timing npm:load:logFile Completed in 2ms
+25 timing npm:load:timers Completed in 0ms
+26 timing npm:load:configScope Completed in 0ms
+27 timing npm:load Completed in 18ms
+28 silly logfile start cleaning logs, removing 1 files
+29 http fetch GET 200 https://registry.npmjs.org/bootstrap 257ms (cache miss)
+30 timing command:view Completed in 268ms
+31 verbose exit 0
+32 timing npm Completed in 341ms
+33 info ok
